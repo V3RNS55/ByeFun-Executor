@@ -9,7 +9,7 @@ you must be in roblox web version and in game for this to work. it is working in
 
 HOW TO USE: First, download. Next, you must unzip file and use the exe. if it doesnt work then u arent in the roblox web version or in a game. if you need help, go to guilded
 
-GUILDED SERVER: https://www.guilded.gg/i/2GN74lbEk USE THIS FOR SUPPORT OR USE THIS https://discord.gg/vHRwdVUK
+GUILDED SERVER: https://www.guilded.gg/i/2GN74lbEk USE THIS FOR SUPPORT OR USE THIS https://discord.gg/STTg8h4CUN
 
 if the discord invite link/guilded is invalid give me a few days to update
 
