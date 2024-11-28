@@ -20,4 +20,4 @@ if the discord invite link/guilded is invalid give me a few days to update
 # HOW TO DOWNLOAD
 
 
-Go to releases and download the zip: ByeFunV1.zip . After, extract all the files. Then, open ByeFunV1. If it doesnt work, use ByeFunV1BUILDER to fix the problem.
+Go to releases and download the zip: ByeFunV1.zip . After, extract all the files. Then, open ByeFunV1. If it doesnt work, use ByeFunV1Helper to fix the problem.
