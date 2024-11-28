@@ -12,3 +12,12 @@ HOW TO USE: First, download. Next, you must unzip file and use the exe. if it do
 GUILDED SERVER: https://www.guilded.gg/i/2GN74lbEk USE THIS FOR SUPPORT OR USE THIS https://discord.gg/vHRwdVUK
 
 if the discord invite link/guilded is invalid give me a few days to update
+
+
+
+
+
+# HOW TO DOWNLOAD
+
+
+Go to releases and download the zip: ByeFunV1.zip . After, extract all the files. Then, open ByeFunV1. If it doesnt work, use ByeFunV1BUILDER to fix the problem.
